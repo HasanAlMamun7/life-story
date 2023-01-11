@@ -2,3 +2,5 @@ hey man !
 what's up man
 This is the video number 15 in git & github tutorial.
 thanks !
+
+reversing push and pull
