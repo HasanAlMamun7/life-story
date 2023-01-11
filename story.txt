@@ -1,5 +1,5 @@
 hey man !
-what's up man
+what's up bro
 This is the video number 15 in git & github tutorial.
 thanks !
 
